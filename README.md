@@ -3,7 +3,7 @@
 Software Engineer
 -----------------------
 
-Looking forward to working in a collaborative team to build high quality software. Always striving for perfection in my work. Being a quick learner, I like to work on different tech stacks to deliver the best and optimal solutions.
+Looking forward to being a fullstack developer or a backend developer for highly scalable solutions. Expertise with Ruby on Rails, Python, AWS-EMR services.
 
 
 >Bengaluru, Karnataka<br>
