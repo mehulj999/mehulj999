@@ -13,19 +13,6 @@ Email: mehuldj999@gmail.com <br>
 
 -------------------     ----------------------------
 
-Education
----------
-
-><div>
-> <strong>Msc.IT:</strong> Jain (Deemed-to-be) University (2018-2020)<p style="float:right;">GPA: 7.82 </p> <br>
-<div style="clear: both;"></div> </div>
-
-><div>
-> <strong>BCA:</strong> St. Joseph's College (Autonomous) (2015-2028) <p style="float:right;">CGPA: 7.50 </p> <br>
-<div style="clear: both;"></div> </div>
-
--------------------     ----------------------------
-
 # Experience #
 
 
@@ -33,22 +20,25 @@ Education
 
 >**Software Engineer**
 : *August 2020 - Present* <br>
-* Worked on a 'Cost Accounting App' built on Rails, to remove bugs and upgrade it from ruby 2.4.0 to 2.71.
+* Worked on Clojure code, for designing population algorithms for hospitals and patient data. 
+* Developed a tool using ROR which creates EMR commands for the pipelines an engineer might have to run, which was manual and needed a text editor and a lot of KTs.
+* Production support on AWS-EMR issues.
 * Improvements were made to different client facing tools, and was able to pick up and deliver quickly.
-* Working on Clojure code, delivering improvements, and bug fixes that positively impact hospital software with the best engineering practices following CI/CD.
-* Worked with multiple teams to figure out EMR issues which were impacting the new recruits, and those who had recently changed their devices.
+* Worked on automating comments on JIRA based on Jenkins downstream builds so that if the build fails the product owners and developers are notified early on before the release stage
+* Have worked on multiple client facing tools including a Cost Accounting App and other Analytics tools on Rails.
+* Took lead on an internal React and Rails project where I built the service using Ruby and GitHub-API to fetch files from GitHub Repos, and transform them for the Solution Designers to be able to work with, greatly improving their workflow.
+* Worked with REST API and Rspec for testing of the same Rails Applications.
 
 >**Software Intern**
 : *February 2020 - July 2020* <br>
-* Took lead for the back-end on a React and Rails project where I built the service using REST API to fetch files from client repositories, and transform them for the Solution Designers to be able to work with.
-* The tool is now an internal tool in the company and has more features added, greatly improving the workflow for the Solution Designers.
+* Worked on AWS-EMR pipelines, Clojure, and training for Population Health Algorithms.
 >
 --------- ---------------
 
 # Technologies and Languages #
-> * C++ | Java | Ruby/Rails | React | Python | JavaScript | Clojure
-* SQL | MongoDB | Firebase | AWS | Git
-* Data Structures | Algorithms | Deep Learning and Machine Learning | API Design | Engineering Best Practices | Unit Testing  
+* Ruby/Rails | React | Angular | Python/Django | JavaScript | Clojure | C++ | Java 
+* SQL | MongoDB | Firebase | AWS-EMR | Git | Jenkins
+* Data Structures | Algorithms | Machine Learning | API Design | Unit Testing  
 --------- ---------------
 
 # Projects #
@@ -64,6 +54,19 @@ Education
 NHM Karnataka for the contribution.
 
  --------- ---------------
+ 
+ Education
+---------
+
+><div>
+> <strong>Msc.IT:</strong> Jain (Deemed-to-be) University (2018-2020)<p style="float:right;">GPA: 7.82 </p> <br>
+<div style="clear: both;"></div> </div>
+
+><div>
+> <strong>BCA:</strong> St. Joseph's College (Autonomous) (2015-2028) <p style="float:right;">CGPA: 7.50 </p> <br>
+<div style="clear: both;"></div> </div>
+
+-------------------     ----------------------------
 
 # Volunteer Work #
 > **Hemophilia Federation India** (Feb 2020 - Present) <br>
