@@ -3,7 +3,7 @@
 Software Engineer
 -----------------------
 
-Looking forward to being a fullstack developer or a backend developer for highly scalable solutions. Expertise with Ruby on Rails, Python, AWS-EMR services.
+Fullstack developer for highly scalable solutions. Expertise with Ruby on Rails, Python, AWS-EMR services.
 
 
 >Bengaluru, Karnataka<br>
@@ -15,11 +15,17 @@ Email: mehuldj999@gmail.com <br>
 
 # Experience #
 
+## **Aknamed**:
+>**Fullstack Developer**
+: *September 2021 - Present* <br>
+* Working on OrderManagementSystem, SmartChain and SmartBuy products for India's largest Supply Chain unit for hospitals.
+* Working on Ruby on Rails, developing new features, bug fixes and constantly learning and applying newer things.
+
 
 ## **Cerner**:
 
 >**Software Engineer**
-: *August 2020 - Present* <br>
+: *August 2020 - September 2021* <br>
 * Worked on Clojure code, for designing population algorithms for hospitals and patient data. 
 * Developed a tool using ROR which creates EMR commands for the pipelines an engineer might have to run, which was manual and needed a text editor and a lot of KTs.
 * Production support on AWS-EMR issues.
@@ -36,12 +42,14 @@ Email: mehuldj999@gmail.com <br>
 --------- ---------------
 
 # Technologies and Languages #
-* Ruby/Rails | React | Angular | Python/Django | JavaScript | Clojure | C++ | Java 
-* SQL | MongoDB | Firebase | AWS-EMR | Git | Jenkins
-* Data Structures | Algorithms | Machine Learning | API Design | Unit Testing  
+* Ruby/Rails | React | Angular | Python/Django | JavaScript | Clojure
+* SQL | MongoDB | AWS-EMR | Git | Jenkins
+* Data Structures | Algorithms | API Design | Unit Testing  
 --------- ---------------
 
 # Projects #
+> **Donor Management System:** <br>
+* Worked on the donor management system for Hemophilia Federation India.
 
 > **Search Relevancy Prediction:** <br>
 * Worked on a Natural Language Processing model in Python. This model predicts the relevancy score of search results, inputs being search queries, product titles, and description of product off an E-Commerce Website
