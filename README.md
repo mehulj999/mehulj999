@@ -9,7 +9,6 @@ Fullstack developer for highly scalable solutions. Expertise with Ruby on Rails,
 >Bengaluru, Karnataka<br>
 LinkedIn: [mehuldj999](https://www.linkedin.com/in/mehuldjain/ "LinkedIn") <br>
 Email: mehuldj999@gmail.com <br>
-+91-8494923999
 
 -------------------     ----------------------------
 
