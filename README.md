@@ -3,7 +3,7 @@
 Software Engineer
 -----------------------
 
-Fullstack developer for highly scalable solutions. Expertise with Ruby on Rails, Python, AWS-EMR services.
+Fullstack developer for highly scalable solutions. Expertise with Ruby on Rails, React, GraphQL.
 
 
 >Bengaluru, Karnataka<br>
